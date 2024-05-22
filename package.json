@@ -1,0 +1,29 @@
+{
+  "name": "numberguessinggame",
+  "version": "1.0.0",
+  "description": "Node Project 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimra Arshad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimraarshad556/NumberGuessingGame.git"
+  },
+  "keywords": [
+    "NumberGuessing"
+  ],
+  "bugs": {
+    "url": "https://github.com/nimraarshad556/NumberGuessingGame/issues"
+  },
+  "homepage": "https://github.com/nimraarshad556/NumberGuessingGame#readme"
+}
